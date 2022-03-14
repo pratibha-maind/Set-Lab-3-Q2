@@ -2,3 +2,4 @@ This is text file for assignment 3
 This is modification.
 This is for conflict
 This change is to ensure conflict
+changes
